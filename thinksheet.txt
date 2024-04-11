@@ -1,0 +1,60 @@
+Software:
+Where I left off:
+took a pass at trying to download devkitpro
+-even if you decide to go with ghidra(not sure if theyre the same or not) lets try to delete dkp, you alreaady got so much rando on this device
+
+Help:
+ROMHacking.net
+Perplixity- ai with searching capabilities
+https://www.youtube.com/watch?v=dQLp5i8oS3Y&t=628s
+
+Code:
+Ghidra- disassembler, debugger, decopiler
+X64dbg- debugger
+cutter- similar to ghidra, yet to mature?
+reclass.net- displays memory blocks, classes?
+
+Graphics:
+Tile Layer Pro
+
+Newbie package of Requiered material
+
+ROMHacking.net FAQ: You ask, we answer!
+ROMHacking.net Getting Started Section: Newbies Go HERE!
+ROMHacking.net Documents Section!
+How to ask questions the smart way.
+On the Essence of ROM Hacking
+Talk with experienced people in our IRC chat and ask specific questions there.
+
+When you rename functions or variables i will be saved to a database. that way we can eventually 
+
+
+Possible Plans:
+
+More SHINYS
+
+To make a code writing software that runs after each gym is completed that will train the next gym leader to have a tailored team for P1
+
+I could keep track of how P1 fights
+- only a certain amount of memory, there will be triggers to reset the game
+-- once every 10 fights lets say
+A python script that is triggered with each restart of the game
+- fight data then trains model
+
+
+"Please restart the game for the rewarding of your badge"
+
+Unless I have to write code for everysingle gym leader and their pokemon's mother!
+
+Generative continuous world
+- space for saving fight data
+- reboot after completion of each level, generate world like a single directional treadmill
+- continually rotates through cities and pokemon in the pokedex, slowly making more pokemon available and areas harder
+- possibly rouge-like, possibly need a way to fight a poor grind cycle
+
+#########################FROM THE GITHUB
+Useful additional tools
+porymap for viewing and editing maps
+poryscript for scripting (VS Code extension) ------------------this one seeems super useful for my goals
+Tilemap Studio for viewing and editing tilemaps
+
